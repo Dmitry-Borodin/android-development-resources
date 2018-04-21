@@ -21,6 +21,11 @@ pmd, findbugs, checkstyle
 and android lint
 devknox – AS plugin, security lint like
 
+## Continuous localization
+https://crowdin.com/ - Парни на нем остановилися.
+https://serge.io/ - нет UI
+https://www.transifex.com/
+onesky (oneskyapp)
 
 ### Fill someware above later
 
