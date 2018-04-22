@@ -1,4 +1,6 @@
 
+https://developer.android.com/index.html  Official documentaiton
+https://android-developers.googleblog.com/ official blog
 
 
 
@@ -13,6 +15,7 @@ http://docs.oracle.com/javase/specs/
 https://github.com/googlesamples
 
 #### apps
+
 https://gitlab.com/terrakok/gitlab-client.git
 
 #### samples
